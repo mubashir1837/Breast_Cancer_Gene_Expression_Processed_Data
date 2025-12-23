@@ -25,4 +25,4 @@ This dataset can be used for machine learning models to predict NAC response in 
 
 ## License
 
-Please refer to the original GEO dataset for licensing information.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

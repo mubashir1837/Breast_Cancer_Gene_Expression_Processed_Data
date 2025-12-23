@@ -17,6 +17,7 @@ This dataset contains RNA-seq gene expression data from 58 breast cancer patient
 
 - GEO Accession: GSE280902
 - Paper: Guevara-Nieto HM et al. Identification of predictive pretreatment biomarkers for neoadjuvant chemotherapy response in Latino invasive breast cancer patients. Mol Med 2025.
+- GitHub Repository: [Breast Cancer Gene Expression Processed Data](https://github.com/mubashir1837/Breast_Cancer_Gene_Expression_Processed_Data)
 
 ## Usage
 

@@ -6,6 +6,7 @@ This dataset contains RNA-seq gene expression data from 58 breast cancer patient
 
 - `cleaned_expression.csv`: Gene expression matrix with 58 samples (rows) and 28,278 genes (columns). The last column is 'Response' (1 for responder, 0 for non-responder).
 - `labels.csv`: Sample labels with response to NAC.
+- `notebooks/exploration.ipynb`: Jupyter notebook for data exploration, including EDA and PCA visualization.
 
 ## Data Description
 
